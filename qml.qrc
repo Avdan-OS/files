@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>HomePage.qml</file>
+        <file>AddressBar.qml</file>
+        <file>SideBar.qml</file>
+        <file>FileIconButton.qml</file>
+        <file>FileListButton.qml</file>
+        <file>FileDetailsButton.qml</file>
+        <file>HomePageFavourites.qml</file>
+        <file>HomePagePinned.qml</file>
+        <file>HomePageTagged.qml</file>
+        <file>HomePageRecent.qml</file>
+        <file>HomePageDisks.qml</file>
+        <file>HomePageCard.qml</file>
+        <file>ContentPage.qml</file>
+    </qresource>
+</RCC>
